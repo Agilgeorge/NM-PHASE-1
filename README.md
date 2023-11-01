@@ -27,7 +27,7 @@ For each model, we evaluate its performance using relevant metrics such as Mean 
 
 ## Contributors
 
-- [Your Name](https://github.com/Agilgeorge) - Project Lead
+- Agil george(https://github.com/Agilgeorge) - Project Lead
 
 ## License
 
